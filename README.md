@@ -1,15 +1,15 @@
 <p>&nbsp;&nbsp;</p>
 
-<center>
+<h1 align="center">
 	<img src="https://i.ibb.co/dBGsmMm/logo.png" />
-</center>
+</h1>
 
 <p>&nbsp;&nbsp;</p>
 
 
-<center> 
+<h1 align="center"> 
 	<img src="https://user-images.githubusercontent.com/43690080/84059978-d5c48680-a991-11ea-917f-5df934df2597.gif" />
-</center>
+</h1>
 
 <p>&nbsp;&nbsp;</p>
 
@@ -41,11 +41,6 @@
   [Tecnologias](#-tecnologias) |
   [Iniciando o Projeto](#-como-iniciar-o-projeto)
 
-</center>
-
-<p>&nbsp;&nbsp;</p>
-
----
 <p>&nbsp;&nbsp;</p>
 
 ## 💻 Projeto
@@ -95,4 +90,4 @@ Arlan Gustavo Biati
 
 ❯ [ArlanBiati](https://github.com/ArlanBiati/) <img src="https://user-images.githubusercontent.com/43690080/84064412-f04e2e00-a998-11ea-859c-50c4c05df79b.png">
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Distribuído sob a licença MIT
