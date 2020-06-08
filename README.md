@@ -35,11 +35,13 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
 <p>
 
-<center>
-
+<p align="center">
+	
   [Projeto](#-projeto) |
   [Tecnologias](#-tecnologias) |
   [Iniciando o Projeto](#-como-iniciar-o-projeto)
+  
+</p>
 
 <p>&nbsp;&nbsp;</p>
 
@@ -51,7 +53,7 @@ O projeto Ecoleta é um martkplace de coleta seletiva, onde podemos encontrar po
 
 ---
 
-## :rocket: Tecnologias
+## 🚀 Tecnologias
 
 O projeto foi desenvolvido usando as seguintes tecnologias
 
